@@ -13,12 +13,17 @@
     提升开发效率
 
     代表作:vue.js
-    本人维护过的:husky, eslint ,jest.
+    本人维护过的:husky, eslint ,jest, typescript.
 
 3.技术型成就 
 
     较为稀有,AI,图识别等等
 
+
+工作目标
+
+     技术型or管理型
+     明确的工作目标（如：进google）是加分项
 
 学习方法
 
