@@ -204,7 +204,7 @@ JS中的对象
         任何对象仅仅需要描述自己与原型的区别
 
     JS中的对象
-    
+
         属性 (属性的集合)
             kv对
             Symbol,String => data,Accessor(访问器)
@@ -224,8 +224,16 @@ JS中的对象
         new, class, extends - 类
         new, function, prototype - 构造器
 
+    JS中的特殊对象
+
+        function - 带call方法的对象, [[]]为对象内置行为
+            用function关键字,箭头函数,Function构造器创建的对象,都会有[[call]]
+
+        Array - [[length]]
 
         
+
+
 
     
 
