@@ -204,6 +204,7 @@ JS中的对象
         任何对象仅仅需要描述自己与原型的区别
 
     JS中的对象
+    
         属性 (属性的集合)
             kv对
             Symbol,String => data,Accessor(访问器)
@@ -215,6 +216,14 @@ JS中的对象
             这一算法保证了每个对象仅需要描述自己与原型的区别即可
 
         唯一标识:内存地址
+
+    JS对象的语法
+    
+        {}.[] Object.defineProperty - 字面定义
+        Object.create,Object.setPrototypeOf,Object.getPrototypeOf - 基于原型
+        new, class, extends - 类
+        new, function, prototype - 构造器
+
 
         
 
