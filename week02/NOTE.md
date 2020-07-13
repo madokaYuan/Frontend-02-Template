@@ -158,8 +158,24 @@ JS中的Number
     
 JS中的String  
 
+    字符集
+        ASCII
+        Unicode
+
     语法
         ""
         ''
         `` - 模版
 
+Boolean
+
+    true
+    false
+
+Null
+
+    表示定义了但是为空
+
+Undefined - 变量
+
+    表示未定义,用void 0表示比较安全
