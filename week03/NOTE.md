@@ -191,6 +191,16 @@ JS的语句(完成控制流程,确定执行顺序)
         作用域链来自es3,早期的js设计中的var,function作用范围是所在的整个函数体
         const,let的作用域在所在的block {}
 
+    宏任务与微任务(执行的粒度在运行时的表示)
+
+        宏任务
+        微任务(promise)
+        函数调用(execution context)
+        语句/声明(completion record)
+        表达式(reference)
+        直接量/变量/this
+
+    
 
 
     
